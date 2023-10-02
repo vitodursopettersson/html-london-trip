@@ -1,6 +1,6 @@
 # Viaggio a Londra
 
-Esercitazione 22 settembre 2022
+Esercitazione 22 settembre 2023
 
 
 
